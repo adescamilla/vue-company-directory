@@ -10,4 +10,5 @@ module.exports = {
   bracketSameLine: false,
   arrowParens: 'always',
   vueIndentScriptAndStyle: true,
+  endofline: 'auto',
 }
