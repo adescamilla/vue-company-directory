@@ -39,7 +39,7 @@
       @apply container mx-auto flex w-full items-center justify-between;
       .brand {
         &-title {
-          @apply text-2xl font-bold text-lime-600;
+          @apply text-2xl font-bold text-orange-600;
         }
       }
       .menu {
@@ -48,10 +48,10 @@
           @apply py-2;
         }
         &-item {
-          @apply rounded-md px-4 py-2 hover:bg-lime-600 hover:text-neutral-900;
+          @apply rounded-md px-4 py-2 hover:bg-orange-600 hover:text-neutral-900;
         }
         &-login {
-          @apply rounded-md bg-lime-500 px-4 py-2 text-red-100 hover:bg-lime-700;
+          @apply rounded-md bg-orange-500 px-4 py-2 text-red-100 hover:bg-orange-700;
         }
         &-logout {
           @apply mx-2 rounded-md bg-red-500 px-4 py-2 text-red-100 hover:bg-red-700;
