@@ -42,7 +42,7 @@
     .page {
       @apply rounded-md bg-neutral-100 p-2 font-medium text-neutral-700 shadow-md hover:bg-neutral-200;
       &.active {
-        @apply bg-lime-700 text-neutral-100 hover:bg-lime-600;
+        @apply bg-orange-700 text-neutral-100 hover:bg-orange-600;
       }
     }
   }

@@ -38,7 +38,7 @@
         @apply text-2xl font-thin tracking-wide text-neutral-900;
       }
       &-job {
-        @apply -mt-2 text-sm font-bold text-lime-800;
+        @apply -mt-2 text-sm font-bold text-orange-800;
       }
       &-quote {
         @apply pt-4 text-lg italic text-neutral-700;
