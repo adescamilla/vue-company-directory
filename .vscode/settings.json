@@ -9,7 +9,7 @@
   "prettier.trailingComma": "all",
   "prettier.vueIndentScriptAndStyle": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   },
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
